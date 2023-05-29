@@ -4,8 +4,8 @@
 
 I would have to do research on how to install all these tools/packages
 sources: 
-https://docs.python-guide.org/starting/install3/linux/
-https://jupyter.org/install
+https://docs.python-guide.org/starting/install3/linux/ <br>
+https://jupyter.org/install <br>
 https://www.python.org/downloads/
 
 ### 1.1 task troubleshooting:
