@@ -1,0 +1,25 @@
+## create virtual environment named devfun
+python3 -m venv devfun
+
+## activate the devfun virtual environment
+source devfun/bin/activate
+
+## verify that there are no additional python packages currently installed in the environment
+pip3 freeze
+
+## deactivate the virtual environment
+deactivate
+
+## check which packages are installed in the system environment
+python3 -m pip freeze
+
+## to copy requirements to another virtual environment
+source devfun/bin/activate
+pip3 freeze > requirements.txt
+deactivate
+
+## copy them to another virtual environment
+python3 -m venv devnew
+source devnew/bin/activate
+pip3 install -r requirements.txt
+pip3 freeze
