@@ -3,7 +3,7 @@
 ### 1.1 task preperation and implementation
 
 I would have to do research on how to install all these tools/packages
-sources: 
+sources: <br>
 https://docs.python-guide.org/starting/install3/linux/ <br>
 https://jupyter.org/install <br>
 https://www.python.org/downloads/
