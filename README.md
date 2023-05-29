@@ -1,3 +1,7 @@
+# Introduction
+
+in this readme file you will find all the documentation that has been done over all the labs that have something to do about the development in networking. screenshots will have an explanation if needed.
+
 ## LAB 1 - Python Experiments
 
 ### 1.1 task preperation and implementation
@@ -93,7 +97,7 @@ open visual studio code and have python updated
 
 ### 2.3 task troubleshooting
 
-
+none
 
 ### 2.3 task verification
 
@@ -115,3 +119,24 @@ on the library.demo.local site you go back to get/books to check if they're adde
 to add another 100:
 
 ![image](https://github.com/DennisRomeijnPXL/master/assets/73332330/8631800e-f592-450d-9b71-941d095e164e)
+
+## Lab 3 
+
+### 3 task preperation and implementation
+
+all I needed to prepare was have python3 and visual studio installed.
+
+### 3 task troubleshooting
+
+///
+
+### 3 task verification
+
+all the python files are put in the lab 3 folder and they can be tested out.
+
+## Lab 4
+
+an entire document has been placed in the lab 4 folder that has all the information needed
+
+## lab 5 
+
