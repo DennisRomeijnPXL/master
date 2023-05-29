@@ -140,3 +140,16 @@ an entire document has been placed in the lab 4 folder that has all the informat
 
 ## lab 5 
 
+### 5.2 task preperation and implementation
+
+the unittest framework had to be on the machine.
+
+### 5.2 task task troubleshooting
+
+there were a lot of problems with the indendations of the code, so I had to manually fix that.
+
+### 5.2 task verification
+
+after putting the code in unittest/recursive_json_search.py
+![image](https://github.com/DennisRomeijnPXL/master/assets/73332330/0cb85a9a-94b7-49d7-aab8-7853e5bfedf6)
+
