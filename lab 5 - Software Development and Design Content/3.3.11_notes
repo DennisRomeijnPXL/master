@@ -1,0 +1,37 @@
+## initializing git
+
+git config --global user.name "SampleUser"	-> set the global user to what you want
+git config --global user.email "Sample@example.com"	-> "" but for email
+
+git config --list 	-> see the settings you put
+
+git init 	-> initialize the current directory as a git repository
+
+git status
+
+## staging file
+
+git add devasc.txt	-> stage this text file
+git status	-> check if that file is there
+
+git commit -m "Comitting devasc.txt to begin tracking changes"		-> commit that staged file to the master branch
+
+git log 	-> what are the logs of the commits
+
+## modify file
+
+git commit -m "Added additional line tio file"		-> this line will be added at the end of the file
+
+git diff b510f8e 9f5c4c5	-> you do this to check what the differences are between the 2 commits
+
+
+git branch feature 	-> create new branch called feature
+git branch		-> verify current branch
+git checkout feature	-> switch to the feature branch
+git merge feature	-> pull this into the master branch if it is safe to do so
+
+git branch -d feature	-> delete feature branch
+
+sed -i 's/Cisco/Netacad/' devasc.txt		-> change the word Cisco into NetAcad in this file
+
+git commit -a -m "Change Cisco to NetAcad"	-> -a only affects the files that have been modified and deleted (not new files)
