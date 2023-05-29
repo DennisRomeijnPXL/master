@@ -144,7 +144,7 @@ an entire document has been placed in the lab 4 folder that has all the informat
 
 the unittest framework had to be on the machine.
 
-### 5.2 task task troubleshooting
+### 5.2 task troubleshooting
 
 there were a lot of problems with the indendations of the code, so I had to manually fix that.
 
@@ -152,4 +152,35 @@ there were a lot of problems with the indendations of the code, so I had to manu
 
 after putting the code in unittest/recursive_json_search.py
 ![image](https://github.com/DennisRomeijnPXL/master/assets/73332330/0cb85a9a-94b7-49d7-aab8-7853e5bfedf6)
+
+### 5.3 task preperation and implementation
+
+nothing extraordinary needs to be prepared
+
+### 5.3 task troubleshooting
+
+none needed
+
+### 5.3 task verification
+
+after putting the code into the parsexml.py file and executing it
+![image](https://github.com/DennisRomeijnPXL/master/assets/73332330/395414ab-4b26-4fd4-a969-490d189b7958)
+
+after putting the code into the parsejson.py file and executing it
+![image](https://github.com/DennisRomeijnPXL/master/assets/73332330/30da5367-5258-4e0b-a0f1-b7e73aaf930e)
+
+after putting the code into the parseyaml.py file and executing it
+![image](https://github.com/DennisRomeijnPXL/master/assets/73332330/9466e8ce-46f5-4cb2-856a-cd33d9531f0a)
+
+## lab 7
+
+### 5.1 task preperation and implementation
+
+downloading and installing the CSR1000v
+
+### 5.1 task troubleshooting
+
+at first the device wouldn't get an ip on it's interface. I had to go into the virtualbox settings and put the device into a NAT network. after doing so it did get an IP on the correct interface.
+
+### 5.1 task verification
 
