@@ -174,13 +174,13 @@ after putting the code into the parseyaml.py file and executing it
 
 ## lab 7
 
-### 5.1 task preperation and implementation
+### 7.1 task preperation and implementation
 
 downloading and installing the CSR1000v
 
-### 5.1 task troubleshooting
+### 7.1 task troubleshooting
 
 at first the device wouldn't get an ip on it's interface. I had to go into the virtualbox settings and put the device into a NAT network. after doing so it did get an IP on the correct interface.
 
-### 5.1 task verification
+### 7.1 task verification
 
